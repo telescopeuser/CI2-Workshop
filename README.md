@@ -12,7 +12,7 @@ https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem.html
 
 https://github.com/IRS-PM/Workshop-Project-Submission-Template-Trading
 
-.3. More past ATSCA projects:
+.3. More past ATS CA projects:
 
 https://github.com/telescopeuser/fcpo_malaysia_trading
 
