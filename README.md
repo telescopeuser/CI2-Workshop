@@ -3,14 +3,19 @@
 ## Computational Intelligence 2 Workshops & References
 
 .1. Optional workshop:
+
 https://pythonhosted.org/scikit-fuzzy/
+
 https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem.html
 
 .2. Explore and run past algorithmic trading system (ATS) CA project:
+
 https://github.com/IRS-PM/Workshop-Project-Submission-Template-Trading
 
 .3. More past ATSCA projects:
+
 https://github.com/telescopeuser/fcpo_malaysia_trading
+
 https://github.com/Institute-of-Systems-Science/SignalProcessing
 
 Regarding past ATS CA projects trading profits (solution performance):
